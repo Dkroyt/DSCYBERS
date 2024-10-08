@@ -55,28 +55,3 @@ This project is intended for educational and ethical hacking purposes only. Misu
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-### Repository Structure
-
-You can set up your repository with the following structure:
-
-```
-dscyber-mass-reporter/
-│
-├── mass_reporter.py        # Your main script
-├── README.md               # Generated readme file
-└── LICENSE                 # License file (optional, if you want to include one)
-```
-
-To publish it on GitHub:
-1. Create a new repository on GitHub.
-2. Push your project:
-    ```bash
-    git init
-    git add .
-    git commit -m "Initial commit"
-    git remote add origin https://github.com/yourusername/dscyber-mass-reporter.git
-    git push -u origin master
-    ```
-
-Let me know if you'd like further customization or additions to the `README.md`.
